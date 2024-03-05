@@ -19,3 +19,6 @@ In order to add this app to your pod:
 * go to http://localhost:4200/applications
 * click '+ ADD APPLICATION'
 * fill in http://localhost:3600 as the Client ID
+* click Next
+* grant access
+* launch the app
