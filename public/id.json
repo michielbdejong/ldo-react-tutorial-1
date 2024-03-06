@@ -10,6 +10,6 @@
     "logo_uri": "https://robohash.org/ldo-react-tutorial?set=set3",
     "redirect_uris": ["http://localhost:3006/callback"],
     "grant_types" : ["refresh_token","authorization_code"],
-    "interop:hasAccessNeedGroup": "http://localhost:3006/acme/projectron/access-needs#need-group-pm",
+    "interop:hasAccessNeedGroup": "http://localhost:3006/access-needs.ttl",
     "interop:hasAuthorizationCallbackEndpoint": "http://localhost:4500"
   }
